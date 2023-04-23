@@ -1,0 +1,147 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F6F6F6;
+	overflow-y: hidden;
+}
+
+
+.mainDrawerBody{
+
+	width: 668px;
+	height: 1000px;
+	background-color: #FFFFFF;
+
+}
+
+.importText{
+
+width: 85%;
+display: flex;
+align-items: center;
+position: relative;
+left: 50%;
+transform: translate(-50%,60px);
+justify-content: space-between;
+
+
+}
+
+
+.textImportMain > h1{
+
+	font-size: 24px; 
+	font-family: SF Pro Text;
+}
+
+.buttonImportMain>button{
+
+border-radius: 30px;
+border:none;
+height: 45px;
+width: 100px;
+background-color: #222222;
+color: #FFFFFF;
+font-size: 10px;
+font-family: Poligon;
+text-transform: lowercase;
+
+
+}
+
+.buttonImportMain>button:hover {
+
+	transform: scale(1.02);
+	animation-duration: 0.3s;
+	background-color: #222222;
+color: #FFFFFF;
+	
+	
+	
+	}
+	
+
+
+
+
+.subText{
+	
+width: 80%;
+position: relative;
+left: 50%;
+transform: translate(-50%,65px);
+justify-content: space-between;
+font-family: Helvetica;
+color: #898989;
+font-size: 10.5px;
+line-height: 18px;
+
+}
+
+.buttonContainers{
+
+display: flex;
+width: 80%;
+position: relative;
+left: 50%;
+transform: translate(-50%,78px);
+font-family: Helvetica;
+color: #898989;
+font-size: 12px;
+
+
+
+}
+
+
+
+
+.buttonContainers button{
+	margin-right: 15px; 
+	background-color: transparent;
+	border:solid 1px #969595;
+	border-radius: 15px;
+	height: 35px;
+	width: 95px;
+	font-size: 11px;
+	font-family: Poligon;
+	align-items: center;
+	padding: 10px;
+	color: #898989;
+	line-height: 15px;
+
+
+}
+
+.buttonTwo button{
+
+	background-color: #E5E5E5;
+	border:none;
+}
+
+
+.mainTextText{
+
+width: 80%;
+position: relative;
+left: 50%;
+transform: translate(-50%,90px);
+font-family: Helvetica;
+color: #898989;
+font-size: 10.5px;
+line-height: 19px;
+
+
+
+
+
+}
+
+.imgContainerContainer img{
+	margin-top: 20px;
+	height: 400px;
+	width: 80%;
+	filter: blur(2px);
+}
+
+

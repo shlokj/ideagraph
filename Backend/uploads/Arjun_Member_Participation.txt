@@ -1,0 +1,46 @@
+Arjun Raj Loomba
+Table 9
+
+Purpose
+Each member diligently worked on the project and made near equal contributions to the end product that we submit. These are described for each section of the presentation in further slides. However, to give a gist of what each member did: Allison worked on data collection, main damping constant analysis, and the final report. Arjun worked on the data collection, energy/acceleration analysis, presentation and final report. Yash worked on data collection, analysis, presentation, and report.For the report, individual contributions are outlined on the last slide for specific parts.
+
+Initial Project Idea and Theory
+How did your group brainstorm ideas and choose the project?
+After the Air Track experiment and the Simple Harmonic Motion experiments, we thought of combing it. We initially thought of what means of friction can affect simple harmonic oscillations. We came to the idea of experimenting with damping to work with the air track and with that, we came up with the overall experiment.
+
+Who within your group worked on researching and developing the theory that your project is based on?
+Yash and I came up with the initial idea. Allison then further worked on developing the idea and forming a concrete experiment around it. In the end the 3 of us pitched in together as collaborative effort to finalize the project.
+
+
+Experimental procedure
+Where did the experimental design of your project come from? 
+We developed it as a group. Alex also helped us with it.
+
+Who helped set up the experiment? 
+Arduino: Yash and Allision
+Arduino code: Collaboratively based on the tools given to us by the class.
+
+
+Analysis
+How did your group perform the data analysis? 
+Python code: Arjun, Allison, Yash - collaboratively on different parts of the code for different parts of the analysis that we allocated each other. Example: energy acceleration analysis, Arjun. Damping constant calculations: Allison.
+
+We discussed the results collaboratively during our labs sessions after we finished data analysis.
+
+Presentation and Report
+I, Arjun drafted the presentation. Yash made revisions to the presentation. 
+
+For the report this is how we allocated and did work: 
+
+Title/Abstract: Yash, Revised by: Arjun, Allison 
+Introduction and References: Yash, Arjun Revised by: Allison 
+Methods: Allison, Revised by: Yash, Arjun
+Results:  Allison, Revised by: Arjun, Allison
+Data Acquisition: Yash, Arjun, Allison
+Data Abstract: Yash, Arjun, Allison
+Conclusion: Arjun, Revised by: Yash, Allison
+
+It was amazing working with Yash and Allison. Also, I really appreciate Alex’s help with the project.
+
+
+

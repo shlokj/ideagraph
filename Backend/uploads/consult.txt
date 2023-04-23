@@ -1,0 +1,21 @@
+Okay, so I've been given this market sizing problem for my business class, and it's about figuring out how many lightbulbs are sold in the US per year. At first, I don't really know where to start. I mean, I know I need to gather some data, but I'm not sure what kind of data I need.
+
+I guess the first thing that comes to mind is to look up the population of the US, because that's going to give me a starting point. According to the US Census Bureau, the population of the US is currently around 330 million people. So, I know that's how many potential customers there are.
+
+But then I need to figure out how many lightbulbs each person uses on average. I'm guessing that's going to depend on a lot of different factors, like the type of lightbulb, how often people use them, and so on.
+
+I start by looking up some information on the different types of lightbulbs. There are incandescent, fluorescent, LED, and others. Apparently, incandescent bulbs are being phased out in favor of more energy-efficient options, like LED bulbs.
+
+So, I start looking up some statistics on how many LED bulbs are sold in the US. According to a report by the US Department of Energy, LED bulbs accounted for about 40% of all lightbulbs sold in 2019. That's a pretty significant chunk.
+
+But then I realize that not everyone is going to use LED bulbs exclusively. Some people might still be using incandescent bulbs, or they might have a mix of different types of bulbs in their home or business. So, I need to figure out some way to account for that.
+
+I decide to look up some information on how long different types of bulbs last. According to Energy Star, an LED bulb can last up to 25,000 hours, while an incandescent bulb might only last for around 1,000 hours. So, even though LED bulbs might be more expensive up front, they're going to last a lot longer, which could save people money in the long run.
+
+Using this information, I estimate that the average person in the US probably uses around 10 lightbulbs per year. That might be a little high or low, but it seems like a reasonable estimate.
+
+So, if we assume that the entire US population uses around 10 lightbulbs per year, and that 40% of those are LED bulbs, that means there are around 1.32 billion LED bulbs sold in the US each year.
+
+Of course, there are a lot of different factors that could impact this number. For example, if the population of the US grows, or if more people start using LED bulbs, this number could go up. On the other hand, if there's a recession or some other economic downturn, people might be less likely to buy new lightbulbs.
+
+Overall, though, I feel pretty good about my estimate. It seems like a reasonable number based on the information I was able to gather.
